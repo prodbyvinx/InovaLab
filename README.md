@@ -15,12 +15,4 @@ Bem-vindo ao repositório oficial da InovaLab, uma academia inovadora que combin
 
 Estamos sempre em busca de inovações! Se você é um desenvolvedor, designer ou entusiasta do fitness, sinta-se à vontade para contribuir com ideias, sugestões ou até mesmo projetos que possam enriquecer nossa comunidade.
 
-## Contato
-
-Siga-nos nas redes sociais e fique por dentro das novidades! 
-
-- [Instagram](link)
-- [Facebook](link)
-- [Site Oficial](link)
-
 Junte-se a nós e faça parte da revolução no mundo do fitness!
