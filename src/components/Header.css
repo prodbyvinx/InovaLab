@@ -1,0 +1,40 @@
+* {
+    font-family: 'Nunito Sans';
+    margin: 0;
+}
+
+.header {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    background-color: #333;
+
+    padding: 10px 20px;
+
+}
+
+
+.header-left, .header-right {
+
+    display: flex;
+
+    align-items: center;
+
+}
+
+
+.noti, .cfg, .home-icon {
+
+    color: white;
+
+    text-decoration: none;
+
+    margin: 0 10px;
+
+    font-size: 24px;
+
+}
