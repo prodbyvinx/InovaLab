@@ -3,6 +3,7 @@
     margin: 0;
 }
 
+<<<<<<< HEAD
 span {
     color: white;
     font-size: 2em;
@@ -21,12 +22,47 @@ span {
 .header-left, .header-right {
     display: flex;
     align-items: center;
+=======
+.header {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    background-color: #333;
+
+    padding: 10px 20px;
+
+}
+
+
+.header-left, .header-right {
+
+    display: flex;
+
+    align-items: center;
+
+>>>>>>> a14db5902baa2c8b32ae724ee70f698309a0e1d9
 }
 
 
 .noti, .cfg, .home-icon {
+<<<<<<< HEAD
     color: white;
     text-decoration: none;
     margin: 0 10px;
     font-size: 24px;
+=======
+
+    color: white;
+
+    text-decoration: none;
+
+    margin: 0 10px;
+
+    font-size: 24px;
+
+>>>>>>> a14db5902baa2c8b32ae724ee70f698309a0e1d9
 }

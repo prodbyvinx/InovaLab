@@ -1,4 +1,5 @@
 * {
+<<<<<<< HEAD
     margin: 0;
 }
 
@@ -69,4 +70,24 @@ a:hover {
 
 .logout:hover {
     color: rgb(124, 16, 16);
+=======
+    font-family: 'Nunito Sans';
+    margin: 0;
+}
+
+.handle-aside {
+    display: flex;
+    align-items: center;
+    margin-top: 45%;
+    height: 3em;
+    border: none;
+    background-color: rgba(128, 128, 128, 0.411);
+    border-radius: 0 20px 20px 0;
+    cursor: pointer;
+    transition: all 0.1s;
+}
+
+.handle-aside:hover {
+    background-color: rgba(128, 128, 128, 0.575);
+>>>>>>> a14db5902baa2c8b32ae724ee70f698309a0e1d9
 }

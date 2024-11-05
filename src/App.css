@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
   --main-color: #fff;
   --highlight-color: #cccccc;
@@ -10,6 +11,10 @@
 .App {
   height: 100vh;
   overflow: hidden;
+=======
+.App {
+  text-align: center;
+>>>>>>> a14db5902baa2c8b32ae724ee70f698309a0e1d9
 }
 
 .App-logo {
@@ -46,4 +51,7 @@
     transform: rotate(360deg);
   }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> a14db5902baa2c8b32ae724ee70f698309a0e1d9
