@@ -1,0 +1,32 @@
+.container {
+    background-color: #f7f7f7;
+}
+
+.saudacao {
+    margin: 2vh;
+    font-family: 'Outfit';
+}
+
+article {
+    font-family: 'Outfit';
+}
+
+p {
+    font-family: 'Outfit';
+    font-size: 14pt;
+    font-weight: 600;
+}
+
+.resumo-plano {
+    overflow: hidden;
+    border: 1px solid #b6b6b6;
+    border-radius: 8px;
+    width: 60vw;
+    height: fit-content;
+    margin-left: 16vw;
+    padding: 1vw;
+}
+
+.treino-hoje {
+    font-family: 'Outfit';
+}

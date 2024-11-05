@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+}
+
+aside {
+    display: flex;
+    float: left;
+    background-color: var(--main-color);
+    width: 14vw;
+    height: 100%;
+    overflow: hidden;
+    box-shadow: 3px 0 12px 12px rgba(0, 0, 0, 0.096);
+    justify-content: center;
+    margin-right: 3vh;
+}
+
+img {
+    width: 8vw;
+    align-self: center;
+    scale: 1.0;
+    z-index: 0;
+    mix-blend-mode: luminosity;
+}
+
+hr {
+    border: solid 1px var(--highlight-color);
+    width: 100%;
+    margin: 2vh 0;
+}
+
+.aside-menu {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    height: 100%;
+    margin: 2vh 0vh;
+    
+}
+
+a {
+    text-align: center;
+    text-justify: center;
+    text-decoration: none;
+    color: var(--text-color);
+    font-size: 1.2em;
+    align-self: center;
+    transition: all 0.1s;
+    font-family: 'Outfit';
+    margin: 2vh;
+}
+
+a.top-menu {
+    margin-top: 0;
+}
+
+a:hover {
+    color: rgb(104, 104, 104);
+}
+
+.logout {
+    position: absolute;
+    bottom: 4%;
+    font-size: 1em;
+    font-weight: 500;
+    color: rgb(170, 16, 16);
+    transition: all 0.1s;
+}
+
+.logout:hover {
+    color: rgb(124, 16, 16);
+}
